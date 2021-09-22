@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96aafeec-6bb5-4b5b-9662-beaea89b1567" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/notes/知识笔记/并发/Java并发编程实战/并发理论基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/知识笔记/并发/Java并发编程实战/并发理论基础.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/知识笔记/并发/String和StringBuffer.md" beforeDir="false" />
-    </list>
+    <list default="true" id="96aafeec-6bb5-4b5b-9662-beaea89b1567" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +58,19 @@
       <recent name="D:\ideaWork\dabin_test\notes\知识笔记\mysql" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,7 +84,7 @@
       <workItem from="1631355303672" duration="3851000" />
       <workItem from="1631509822708" duration="1804000" />
       <workItem from="1631768518339" duration="596000" />
-      <workItem from="1632124416505" duration="4161000" />
+      <workItem from="1632124416505" duration="4218000" />
     </task>
     <servers />
   </component>
