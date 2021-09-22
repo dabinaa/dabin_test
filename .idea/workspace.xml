@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96aafeec-6bb5-4b5b-9662-beaea89b1567" name="Default Changelist" comment="" />
+    <list default="true" id="96aafeec-6bb5-4b5b-9662-beaea89b1567" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/notes/知识笔记/并发/Java并发编程实战/并发理论基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/知识笔记/并发/Java并发编程实战/并发理论基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/知识笔记/并发/String和StringBuffer.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,16 +43,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/notes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/notes/知识笔记/并发/String和StringBuffer.md" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/notes/知识笔记/并发/String和StringBuffer.md" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ideaWork\dabin_test\notes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaWork\dabin_test\notes\知识笔记\并发" />
+      <recent name="D:\ideaWork\dabin_test\notes\知识笔记\Spring" />
+      <recent name="D:\ideaWork\dabin_test\notes\知识笔记\mysql" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,6 +72,9 @@
       <workItem from="1631352801519" duration="755000" />
       <workItem from="1631353604173" duration="1072000" />
       <workItem from="1631355303672" duration="3851000" />
+      <workItem from="1631509822708" duration="1804000" />
+      <workItem from="1631768518339" duration="596000" />
+      <workItem from="1632124416505" duration="4161000" />
     </task>
     <servers />
   </component>
