@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96aafeec-6bb5-4b5b-9662-beaea89b1567" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/notes/知识笔记/mysql/musql的事务.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/知识笔记/mysql/mysql 数据Buffer Pool.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/知识笔记/mysql/mysql 数据Buffer Pool.md" afterDir="false" />
-    </list>
+    <list default="true" id="96aafeec-6bb5-4b5b-9662-beaea89b1567" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +73,8 @@
       <workItem from="1631768518339" duration="596000" />
       <workItem from="1632124416505" duration="4218000" />
       <workItem from="1632362240149" duration="42000" />
-      <workItem from="1632561286277" duration="687000" />
+      <workItem from="1632561286277" duration="2578000" />
+      <workItem from="1632621608493" duration="9000" />
     </task>
     <servers />
   </component>
