@@ -23,3 +23,11 @@ ON DUPLICATE KEY UPDATE的一些理解。
 
 
 //可能遇到的问题，主键超长。
+
+
+
+
+
+参考文章：
+
+https://www.docs4dev.com/docs/zh/mysql/5.7/reference/show-table-status.html
